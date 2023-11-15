@@ -1,0 +1,3 @@
+Credenciales para ingresar:
+Usuario: admin@gmail.com
+Contraseña: 123456
